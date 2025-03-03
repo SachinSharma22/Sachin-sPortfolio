@@ -848,7 +848,7 @@ section:nth-child(odd) .animate.scroll,
     }
 }
 
-@media (max-width: 272px){
+@media (max-width: 240px){
     .home{
         justify-content: center;
     }
